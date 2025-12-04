@@ -16,4 +16,3 @@ Lab 6- Madlib and Blackjack
 Lab 9- Spell Checker and Guessing the Secret Number Game
 
 	Lab 9 gets a little more challenging but I like the new concepts I learned to do in this lab. Specifically pulling in and out information in files, where we scanned a document file for missed spelled words and stored the secret number in a different file to hide the number from the other player. I chose this lab particularly because it shows that I have learned more from taking this course, since we made the secret number game before but very basic and not as fun. 
-
