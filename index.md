@@ -3,6 +3,10 @@
 
 I am a computer science major at CSUF and I plan on graduating in 2029. 
 
+# My link to GitHub Profile
+
+My GitHub page is http://github.com/EmilyIsley33 
+
 # Favorite CPSC 120L Labs
 
 * Lab 4
